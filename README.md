@@ -41,5 +41,21 @@
 ## ✨ Quote of the Day  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/nidhicode7/nidhicode7/blob/output/github-contribution-grid-snake.svg)  
+
+## 🚀 Featured Projects  
+
+### 1️⃣ [🔗 Grosight - Grocery Review Sentiment Analysis](https://github.com/nidhicode7/grosight)  
+**Tech Stack:** React, MongoDB, Node.js, Python, TensorFlow  
+🔹 An AI-powered web app that analyzes customer reviews and provides sentiment insights.  
+
+### 2️⃣ [🔗 SafeGuardian - Women Safety Analytics](https://github.com/nidhicode7/safety-ai)  
+**Tech Stack:** OpenCV, Deep Learning, Flask, PostgreSQL  
+🔹 Real-time AI system to detect safety threats for women and raise alerts.  
+
+### 3️⃣ [🔗 Deepfake Detector](https://github.com/nidhicode7/deepfake-detector)  
+**Tech Stack:** Python, TensorFlow, Flask, FastAPI  
+🔹 A deep learning-based system to detect AI-generated fake videos and audios.  
 
 
