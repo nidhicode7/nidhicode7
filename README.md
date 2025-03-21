@@ -50,12 +50,11 @@
 **Tech Stack:** React, MongoDB, Node.js, Python, TensorFlow  
 🔹 An AI-powered web app that analyzes customer reviews and provides sentiment insights.  
 
-### 2️⃣ [🔗 SafeGuardian - Women Safety Analytics](https://github.com/nidhicode7/safety-ai)  
+### 2️⃣ [🔗 SafeGuardian - Women Safety Analytics](https://github.com/nidhicode7/MedGuide)  
 **Tech Stack:** OpenCV, Deep Learning, Flask, PostgreSQL  
-🔹 Real-time AI system to detect safety threats for women and raise alerts.  
+🔹 In today's fast-paced world, health concerns can arise unexpectedly, leaving us in need of quick and accurate medical guidance. Our system aims to address this by leveraging advanced technology to predict potential diseases based on symptoms and recommend suitable doctors for consultation  
 
-### 3️⃣ [🔗 Deepfake Detector](https://github.com/nidhicode7/deepfake-detector)  
+### 3️⃣ [🔗 Deepfake Detector](https://github.com/nidhicode7/Anaemia-Prediction)  
 **Tech Stack:** Python, TensorFlow, Flask, FastAPI  
-🔹 A deep learning-based system to detect AI-generated fake videos and audios.  
-
+🔹 A machinelearning based system to detect the presence of Anaemia in a person with maxiimum accuracy.
 
