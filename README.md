@@ -1,11 +1,8 @@
-# Hi there! 👋  
-I'm **Nidhishaa**, a passionate developer who loves Web Development & AI! 🚀  
+<h2 align="center">Hi there! I'm Nidhishaa 👋</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+Web+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
+</p>
 
-- 🎓 **B.Tech IT Student @ BRECW**  
-- 💡 **Currently Learning:** Full-Stack & Machine Learning  
-- 🎯 **Goal:** To become a Software Developer  
-
----
 
 ## 🛠 Tech Stack  
 
@@ -28,4 +25,21 @@ I'm **Nidhishaa**, a passionate developer who loves Web Development & AI! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nidhishaa-ardham-767181303)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhishaaardham07@gmail.com)  
+
+
+## 🔥 GitHub Streaks  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nidhicode7&theme=radical)  
+
+## 📊 GitHub Contribution Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nidhicode7&theme=dracula)  
+
+## 🏆 Profile Visitors  
+![Visitor Count](https://komarev.com/ghpvc/?username=nidhicode7&color=blue)  
+
+## ✨ Quote of the Day  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+
 
