@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I'm Nidhishaa 👋</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+Web+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+Web Dev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
 </p>
 
 
@@ -56,5 +56,5 @@
 
 ### 3️⃣ [🔗 Deepfake Detector](https://github.com/nidhicode7/Anaemia-Prediction)  
 **Tech Stack:** Python, TensorFlow, Flask, FastAPI  
-🔹 A machinelearning based system to detect the presence of Anaemia in a person with maxiimum accuracy.
+🔹 A machine learning based system to detect the presence of Anaemia in a person with maxiimum accuracy.
 
