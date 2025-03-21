@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I'm Nidhishaa 👋</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+Web Dev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+WebDev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
 </p>
 
 
@@ -41,8 +41,6 @@
 ## ✨ Quote of the Day  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/nidhicode7/nidhicode7/blob/output/github-contribution-grid-snake.svg)  
 
 ## 🚀 Featured Projects  
 
@@ -50,11 +48,11 @@
 **Tech Stack:** React, MongoDB, Node.js, Python, TensorFlow  
 🔹 An AI-powered web app that analyzes customer reviews and provides sentiment insights.  
 
-### 2️⃣ [🔗 SafeGuardian - Women Safety Analytics](https://github.com/nidhicode7/MedGuide)  
+### 2️⃣ [🔗 SafeGuardian - MedGuide](https://github.com/nidhicode7/MedGuide)  
 **Tech Stack:** OpenCV, Deep Learning, Flask, PostgreSQL  
 🔹 In today's fast-paced world, health concerns can arise unexpectedly, leaving us in need of quick and accurate medical guidance. Our system aims to address this by leveraging advanced technology to predict potential diseases based on symptoms and recommend suitable doctors for consultation  
 
-### 3️⃣ [🔗 Deepfake Detector](https://github.com/nidhicode7/Anaemia-Prediction)  
+### 3️⃣ [🔗 Anaemia Prediction](https://github.com/nidhicode7/Anaemia-Prediction)  
 **Tech Stack:** Python, TensorFlow, Flask, FastAPI  
 🔹 A machine learning based system to detect the presence of Anaemia in a person with maxiimum accuracy.
 
