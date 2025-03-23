@@ -31,11 +31,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nidhicode7&theme=radical)  
 
-### 🌆 3D GitHub Contribution Calendar  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nidhicode7&theme=github_dark" width="500px">
-</p>
-
 
 ## 📊 GitHub Contribution Graph  
 
