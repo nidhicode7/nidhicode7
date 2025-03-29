@@ -28,10 +28,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhishaaardham07@gmail.com)  
 
 
-## 🔥 GitHub Streaks  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nidhicode7&theme=radical)  
-
 
 ## 📊 GitHub Contribution Graph  
 
