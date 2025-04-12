@@ -42,6 +42,12 @@
 ## ✨ Quote of the Day  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
+### 🏅 GitHub Achievements  
+<p align="center">
+  <img src="https://github.com/nidhicode7/github-achievements/blob/main/achievements/README.md" />
+</p>
+
+
 
 
 ## 🚀 Featured Projects  
