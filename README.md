@@ -40,6 +40,10 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 
+### 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🚀 Featured Projects  
 
 ### 1️⃣ [🔗 Grosight - Grocery Review Sentiment Analysis](https://github.com/nidhicode7/grosight)  
