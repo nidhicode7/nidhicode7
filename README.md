@@ -11,6 +11,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-4EA94B?style=for-the-badge&logo=C++&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 ---
 
@@ -39,9 +40,6 @@
 ## ✨ Quote of the Day  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-
-### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🚀 Featured Projects  
