@@ -38,10 +38,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nidhicode7&theme=dracula)  
 
 ## 🏆 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=nidhicode7&color=blue)  
-
-## ✨ Quote of the Day  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![Visitor Count](https://komarev.com/ghpvc/?username=nidhicode7&color=blue)   
 
 
 
