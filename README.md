@@ -13,6 +13,8 @@
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -52,7 +54,7 @@
 
 ### 2️⃣ [🔗 SafeGuardian - MedGuide](https://github.com/nidhicode7/MedGuide)  
 **Tech Stack:** OpenCV, Deep Learning, Flask, PostgreSQL  
-🔹 In today's fast-paced world, health concerns can arise unexpectedly, leaving us in need of quick and accurate medical guidance. Our system aims to address this by leveraging advanced technology to predict potential diseases based on symptoms and recommend suitable doctors for consultation  
+🔹 In today's fast-paced world, health concerns can arise unexpectedly, leaving us in need of quick and accurate medical guidance. Our system aims to address this by leveraging advanced technology to predict potential diseases based on symptoms and recommend suitable doctors for consultation. 
 
 ### 3️⃣ [🔗 Anaemia Prediction](https://github.com/nidhicode7/Anaemia-Prediction)  
 **Tech Stack:** Python, TensorFlow, Flask, FastAPI  
