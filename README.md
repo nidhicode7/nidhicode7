@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+WebDev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
 </p>
 
+I am currently working on Bluestock-AI Finance Assistant:A real-time stock data analysis system using REST APIs to fetch live market data.
+
 
 ## 🛠 Tech Stack  
 
