@@ -51,7 +51,7 @@ I am currently working on Bluestock-AI Finance Assistant:A real-time stock data 
 **Tech Stack:** React, MongoDB, Node.js, Python, TensorFlow  
 🔹 An AI-powered web app that analyzes customer reviews and provides sentiment insights.  
 
-### 2️⃣ [🔗 SafeGuardian - MedGuide](https://github.com/nidhicode7/MedGuide)  
+### 2️⃣ [🔗 SafeGuardian-MedGuide - MedGuide](https://github.com/nidhicode7/MedGuide)  
 **Tech Stack:** OpenCV, Deep Learning, Flask, PostgreSQL  
 🔹 In today's fast-paced world, health concerns can arise unexpectedly, leaving us in need of quick and accurate medical guidance. Our system aims to address this by leveraging advanced technology to predict potential diseases based on symptoms and recommend suitable doctors for consultation. 
 
