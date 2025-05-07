@@ -40,7 +40,7 @@ I am currently working on Bluestock-AI Finance Assistant:A real-time stock data 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nidhicode7&theme=dracula)  
 
 ## 🏆 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=nidhicode7&color=blue)   
+![Visitor Count](https://komarev.com/ghpvc/?username=nidhicode7&color=blue)  
 
 
 
