@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+WebDev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
 </p>
 
-I am currently working on Bluestock-AI Finance Assistant:A real-time stock data analysis system using REST APIs to fetch live market data.
+I am currently working upon Bluestock-AI Finance Assistant:A real-time stock data analysis system using REST APIs to fetch live market data.
 
 
 ## 🛠 Tech Stack  
@@ -28,7 +28,7 @@ I am currently working on Bluestock-AI Finance Assistant:A real-time stock data 
 ---
 
  
-## 📬 Connect with Me  
+## 📬 Connect with Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nidhishaa-ardham-767181303)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhishaaardham07@gmail.com)  
