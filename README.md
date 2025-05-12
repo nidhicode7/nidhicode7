@@ -56,6 +56,6 @@ I am currently working upon Bluestock-AI Finance Assistant:A real-time stock dat
 🔹 In today's fast-paced world, health concerns can arise unexpectedly, leaving us in need of quick and accurate medical guidance. Our system aims to address this by leveraging advanced technology to predict potential diseases based on symptoms and recommend suitable doctors for consultation. 
 
 ### 3️⃣ [🔗 Anaemia Prediction](https://github.com/nidhicode7/Anaemia-Prediction)  
-**Tech Stack:** Python, TensorFlow, Flask, FastAPI  
+**Tech Stack:** Python, TensorFlow, Flask, FastAPI 
 🔹 A machine learning based system to detect the presence of Anaemia in a person with maxiimum accuracy.
 
