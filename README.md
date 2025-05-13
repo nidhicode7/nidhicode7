@@ -50,7 +50,8 @@ I am currently working upon Bluestock-AI Finance Assistant:A real-time stock dat
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nidhicode7&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nidhicode7&theme=dark)
+
 
 ## 📊 GitHub Stats
 
