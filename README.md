@@ -25,8 +25,8 @@ I am currently working upon Bluestock-AI Finance Assistant:A real-time stock dat
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhicode7&layout=compact&theme=radical)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nidhicode7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
-
  
 ## 📬 Connect with Me 
 
