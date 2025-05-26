@@ -47,7 +47,7 @@ I am currently working upon Bluestock-AI Finance Assistant:A real-time stock dat
 ## 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=onedark&rank=A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=gruvbox&no-frame=true&column=7&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
