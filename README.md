@@ -51,7 +51,6 @@ I am currently working upon Bluestock-AI Finance Assistant:A real-time stock dat
 
 
 
-
 ## 🚀 Featured Projects 
 
 ### 1️⃣ [🔗 Grosight - Grocery Review Sentiment Analysis](https://github.com/nidhicode7/grosight)  
