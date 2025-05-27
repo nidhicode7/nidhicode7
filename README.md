@@ -65,3 +65,5 @@ I am currently working upon Bluestock-AI Finance Assistant:A real-time stock dat
 **Tech Stack:** Python, TensorFlow, Flask, FastAPI 
 🔹 A machine learning based system to detect the presence of Anaemia in a person with maxiimum accuracy.
 
+## 🚀 Here is a link to know more about me 
+[🔗 PORTFOLIO](https://github.com/nidhicode7/grosight) 
