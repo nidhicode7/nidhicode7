@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+WebDev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
 </p>
-
-
+Email:nidhishaaardham07@gmail.com
 
 ## 🛠 Tech Stack  
 
