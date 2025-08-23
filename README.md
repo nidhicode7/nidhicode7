@@ -43,8 +43,8 @@
 
 
 ## 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=gruvbox&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
