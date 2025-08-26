@@ -7,7 +7,7 @@
 
 ## ✨ About Me  
 
-- 🎓 Pre-final year student in Computer Science, passionate about **AI, ML, and Web Development**  
+- 🎓 Final year student in Computer Science, passionate about **AI, ML, and Web Development**  
 - 🚀 Currently working on **AI-driven real-world projects** and contributing to **Open Source**  
 - 🌱 Always eager to learn new technologies and enhance my problem-solving skills  
 - 🎯 Goal: To build impactful solutions with AI and contribute to the developer community  
