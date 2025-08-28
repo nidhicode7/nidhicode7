@@ -57,15 +57,6 @@
 
 ---
 
-## 🎯 Future Goals  
-
-- 🔬 Publish research work in **AI/ML**  
-- 🏗️ Build a startup project around **Tech for Good**  
-- 🌎 Contribute to Open Source at scale  
-- 📈 Land a role as **Software Developer / AI Engineer** in top product companies  
-
----
-
 ## 💡 Fun Facts About Me  
 
 - 🎶 Music & coding go hand in hand for me  
