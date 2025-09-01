@@ -57,14 +57,6 @@
 
 ---
 
-## 💡 Fun Facts About Me  
-
-- 🎶 Music & coding go hand in hand for me  
-- 🐾 Big-time animal lover  
-- ✈️ Love exploring new places & cultures  
-- 🧩 Can spend hours solving puzzles & brain teasers  
-
----
 
 ## 📬 Connect with Me  
 
