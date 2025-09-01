@@ -1,4 +1,4 @@
-<h2 align="center">Hello Everyone! I'm Nidhishaa </h2>
+<h3 align="center">Hello Everyone! I'm Nidhishaa </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+WebDev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
 </p>
