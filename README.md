@@ -11,7 +11,7 @@
 - 🚀 Currently working on **AI-driven real-world projects** and contributing to **Open Source**  
 - 🌱 Always eager to learn new technologies and enhance my problem-solving skills  
 - 🎯 Goal: To build impactful solutions with AI and contribute to the developer community
-- 🟢 Publication:Do read my newly published research paper upon WASTO-An Integration of Machine Learning and IOT Based Approach for Segregation of Waste [**HERE**](https://www.researchgate.net/publication/393385702_WASTO-An_Integration_of_Machine_Learning_and_IOT_Based_Approach_for_Segregation_of_Waste)
+- 🟢 Publication:Do read my newly published research paper upon WASTO-An Integration of Machine Learning and IOT Based  Approach for Segregation of Waste [**HERE**](https://www.researchgate.net/publication/393385702_WASTO-An_Integration_of_Machine_Learning_and_IOT_Based_Approach_for_Segregation_of_Waste)
 
 ---
 
