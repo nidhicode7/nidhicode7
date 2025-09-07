@@ -45,6 +45,13 @@
 ## 🏆 GitHub Achievements  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=gruvbox&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=dracula&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=monokai&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)  
+
 
 ---
 
