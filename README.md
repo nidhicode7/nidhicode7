@@ -49,6 +49,12 @@
 ---
 
 
+## 📈 GitHub Streak  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=radical&hide_border=false)  
+
+---
+
 ## 📚 Currently Learning  
 
 - 🤖 Advanced Deep Learning & Generative AI  
