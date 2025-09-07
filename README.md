@@ -31,7 +31,7 @@
 
 ## 🔥 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=algolia)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhicode7&layout=compact&theme=radical)  
 
 ---
@@ -50,7 +50,6 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=algolia)
 
 
 
