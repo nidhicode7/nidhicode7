@@ -51,31 +51,9 @@
 
 ## 📈 GitHub Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=radical&hide_border=false)  
-
-
-## 📈 GitHub Streak  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=tokyonight&hide_border=false)  
-
----
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=highcontrast)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=github-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=github-light)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=merko)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=onedark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=solarized-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=solarized-light)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=monokai)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=vue-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=cobalt)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=algolia)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=city_lights)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=nightowl)
+
+
 
 ## 📚 Currently Learning  
 
