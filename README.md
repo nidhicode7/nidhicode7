@@ -48,23 +48,9 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=dracula)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=gruvbox)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=highcontrast)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=github-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=github-light)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=merko)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=onedark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=solarized-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=solarized-light)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=monokai)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=vue-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=cobalt)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=algolia)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=city_lights)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=nightowl)
 
 
 
