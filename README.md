@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
-  Hey there, I'm <span style="color:#F77247;">Nidhishaa Ardham</span> 👩‍💻
+  Hey there, I'm <span style="color:#F77247;">Nidhishaa</span> 👩‍💻
 </h1>
 
 <h3 align="center">🚀 Software Developer | 💡 AI-ML Enthusiast | 🌐 Web Developer | 🤝 Open Source Contributor</h3>
