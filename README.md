@@ -1,7 +1,8 @@
-
+<!-- 💫 FINAL POLISHED & ANIMATED GITHUB PROFILE FOR NIDHISHAA 💫 -->
+<!-- 100% Working Links + Optimized for GitHub Rendering -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
   Hey there, I'm <span style="color:#F77247;">Nidhishaa Ardham</span> 👩‍💻
 </h1>
 
@@ -12,10 +13,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://i.imgur.com/QUhUOBU.gif" width="90%" alt="Neon Divider">
-</div>
 
 ## 💫 About Me  
 
@@ -28,21 +25,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/QUhUOBU.gif" width="90%" alt="Neon Divider">
-</div>
-
 ## ⚙️ Tech Universe  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,mongodb,mysql,postgresql,tensorflow,flask,javascript,html,css,git,github,vscode" />
-</p>
-
----
-
-### 💻 Languages & Tools  
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=tokyonight&hideBg=true&title=My%20Tech%20Stack&line1=Python,Python,3776AB;Java,Java,ED8B00;React,React,61DAFB;Node.js,Node.js,68A063;MongoDB,MongoDB,4EA94B;&line2=TensorFlow,TensorFlow,FF6F00;Flask,Flask,000000;MySQL,MySQL,005C84;PostgreSQL,PostgreSQL,316192;Git,Git,F05032;" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,mongodb,mysql,postgresql,tensorflow,flask,javascript,html,css,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -51,7 +37,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhicode7&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nidhicode7&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhicode7&layout=compact&theme=radical&hide_border=true" height="160"/>
 
@@ -62,7 +48,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=onestar&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -70,12 +56,12 @@
 ## 🌈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhicode7&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhicode7&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🚀 Projects That Define Me  
+## 🚀 Featured Projects  
 
 | 🚩 Project | 💻 Tech Stack | 💡 Description |
 |-------------|---------------|----------------|
@@ -124,5 +110,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77247&height=100&section=footer&text=Thanks+for+visiting!+💖&fontColor=ffffff&fontSize=18&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77247&height=100&section=footer&text=Thanks+for+visiting!+💖&fontColor=ffffff&fontSize=20&animation=twinkling" />
 </p>
