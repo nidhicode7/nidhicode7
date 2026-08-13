@@ -16,7 +16,8 @@
 
 ## 💫 About Me  
 
-🧠 Software Developer-ZETA
+🧠 Software Developer-ZETA 
+
 🚀 Currently working on **AI-driven real-world projects** & contributing to **Open Source**  
 🌱 Exploring **Deep Learning**, **Cloud**, and **Generative AI**  
 🎯 Mission: *Building impactful solutions that blend intelligence and innovation*  
