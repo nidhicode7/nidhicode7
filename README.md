@@ -16,7 +16,7 @@
 
 ## 💫 About Me  
 
-🧠 Final Year **Computer Science** Student passionate about **AI, ML, and Full-Stack Web Development**  
+🧠 Software Developer-ZETA
 🚀 Currently working on **AI-driven real-world projects** & contributing to **Open Source**  
 🌱 Exploring **Deep Learning**, **Cloud**, and **Generative AI**  
 🎯 Mission: *Building impactful solutions that blend intelligence and innovation*  
